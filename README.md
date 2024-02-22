@@ -12,12 +12,19 @@ Want to collaborate? Contact me! [kristofer@kristoferlund.se](mailto:kristofer@k
 
 ## Projects
 
-- [ic_siwe](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic_siwe): A Rust library that provides the necessary tools for integrating Sign-In with Ethereum (SIWE) into IC canisters, allowing users to sign in using their Ethereum wallets.
-  - [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) is a hook that makes it easy to integrate Internet Identity into your React application. It provides a simple interface for logging in and out with the Internet Identity service.
-  - [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) is a React hook and context provider for managing Internet Computer (IC) actors with features like type safety and request/response interceptors. ic-use-actor makes interacting with Internet Computer canisters more fun!
-- [Attest Fest](https://github.com/kristoferlund/attest-fest): Batch create onchain EAS attestations using the power of CSV and copy/paste. Supports any old ETH wallet as well as fancy new Safe multisig wallets. It's an attest fest, yaay!
-- [Duet-GPT](https://github.com/kristoferlund/duet-gpt): An experimental AI powered CLI tool and semi-autonomous agent that helps developers with coding tasks and file system tasks.
-- [ic-pos](https://github.com/kristoferlund/ic-pos): Accept Bitcoin payments (ckBTC) on the Internet Computer using this simple Point of Sale (POS) application.
+- [ic-siwe](https://github.com/kristoferlund/ic-siwe): Enable Ethereum wallet-based authentication for applications on the Internet Computer (IC) platform.
+  - [ic_siwe (Rust crate)](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic_siwe): Integrate Sign-In with Ethereum (SIWE) into IC canisters.
+  - [ic_siwe_provider](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic_siwe_provider): Pre-built canister for easy SIWE support to ICP apps.
+  - [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity): React hook for easy SIWE frontend integration.
+  - [ic-siwe-react-demo-rust](https://github.com/kristoferlund/ic-siwe-react-demo-rust): IC-SIWE React demo with Rust backend.
+  - [ic-siwe-react-demo-ts](https://github.com/kristoferlund/ic-siwe-react-demo-ts): IC-SIWE React demo with TypeScript backend.
+- [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) React hook for easy Internet Identity frontend integration.
+- [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) React hook that makes interacting with Internet Computer canisters more fun! Interceptors, type safety etc.
+- [Attest Fest](https://github.com/kristoferlund/attest-fest): Batch create onchain EAS attestations using the power of CSV and copy/paste.
+- [likebutton.gg](https://github.com/kristoferlund/likebutton): The likebutton on EAS. It had to be done.
+- [Duet-GPT](https://github.com/kristoferlund/duet-gpt): An experimental AI powered CLI tool and semi-autonomous agent.
+- [ic-pos](https://github.com/kristoferlund/ic-pos): POS application to accept Bitcoin payments (ckBTC) on the Internet Computer.
+- [Praise](https://givepraise.xyz/): Unlock the full potential of your community with reputation scores, rewards and deep insights
 
 <!--
 **kristoferlund/kristoferlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
