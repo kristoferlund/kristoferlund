@@ -13,10 +13,10 @@ Want to collaborate? Contact me! [kristofer@kristoferlund.se](mailto:kristofer@k
 ## Projects
 
 - [ic-siws](https://github.com/kristoferlund/ic-siws): SIWS, Sign in with Solana for ICP, the Internet Computer. Build cross chain Solana apps on ICP!
-  - [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siws/tree/main/packages/ic-use-siws-identity): React hook for easy SIWS frontend integration.
+  - [ic-use-siws-identity](https://github.com/kristoferlund/ic-siws/tree/main/packages/ic-use-siws-identity): React hook for easy SIWS frontend integration.
   - [ic-siws-react-demo-rust](https://github.com/kristoferlund/ic-siws-react-demo-rust): React demo and template for IC-SIWS, Sign in with Solana for ICP, the Internet Computer.
 - [ic-siwe](https://github.com/kristoferlund/ic-siwe): Enable Ethereum wallet-based authentication for applications on the Internet Computer (IC) platform.
-  - [ic-use-siwe-identity](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic-use-siwe-identity): React hook for easy SIWE frontend integration.
+  - [ic-use-siwe-identity](https://github.com/kristoferlund/ic-use-siwe-identity): React hook for easy SIWE frontend integration.
   - [ic-siwe-react-demo-rust](https://github.com/kristoferlund/ic-siwe-react-demo-rust): IC-SIWE React demo with Rust backend.
   - [ic-siwe-react-demo-ts](https://github.com/kristoferlund/ic-siwe-react-demo-ts): IC-SIWE React demo with TypeScript backend.
 - [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) React hook for easy Internet Identity frontend integration.
