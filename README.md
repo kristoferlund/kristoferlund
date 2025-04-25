@@ -20,12 +20,9 @@ I used to be the co-founder and lead developer of [Praise](https://givepraise.xy
   - [ic-alloy-dca](https://github.com/ic-alloy/ic-alloy-dca): A semi-autonomous agent, swapping ERC-20 tokens on Uniswap for you. 
 - [C–ATTS](https://catts.run): Attest to Any Onchain Data. Transform, combine and migrate attestations.
 - [ic-siwe](https://github.com/kristoferlund/ic-siwe): Enable Ethereum wallet-based authentication for applications on the Internet Computer (IC) platform.
-  - [ic_siwe_js](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic_siwe_js): React hook for easy SIWE frontend integration.
-  - [ic-siwe-react-demo](https://github.com/kristoferlund/ic-siwe-react-demo-rust): IC-SIWE React demo with Rust backend.
-  - [ic-siwe-vanilla-ts-demo](https://github.com/kristoferlund/ic-siwe-vanilla-ts-demo): IC-SIWE Vanilla JS/TS demo Rust backend.
+- [ic_siwe_js](https://github.com/kristoferlund/ic-siwe/tree/main/packages/ic_siwe_js): React hook for easy SIWE frontend integration.
 - [ic-siws](https://github.com/kristoferlund/ic-siws): SIWS, Sign in with Solana for ICP, the Internet Computer. Build cross chain Solana apps on ICP!
-  - [ic-use-siws-identity](https://github.com/kristoferlund/ic-siws/tree/main/packages/ic-use-siws-identity): React hook for easy SIWS frontend integration.
-  - [ic-siws-react-demo-rust](https://github.com/kristoferlund/ic-siws-react-demo-rust): React demo and template for IC-SIWS, Sign in with Solana for ICP, the Internet Computer.
+- [ic_siwe_js](https://github.com/kristoferlund/ic-siws/tree/main/packages/ic_siws_js): React hook for easy SIWS frontend integration.
 - [ic-use-internet-identity](https://github.com/kristoferlund/ic-use-internet-identity) React hook for easy Internet Identity frontend integration.
 - [ic-use-actor](https://github.com/kristoferlund/ic-use-actor) React hook that makes interacting with Internet Computer canisters more fun! Interceptors, type safety etc.
 - [Attest Fest](https://github.com/kristoferlund/attest-fest): Batch create onchain EAS attestations using the power of CSV and copy/paste.
